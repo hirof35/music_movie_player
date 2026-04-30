@@ -55,5 +55,7 @@ python media_player.py
 MIT License
 
 「構造化されたコードが、最高のエンターテインメントを生む。」
-![Uploading スクリーンショット 2026-04-30 183817.png…]
+
+![Uploading スクリーンショット 2026-04-30 183817.png…]()
+
 
