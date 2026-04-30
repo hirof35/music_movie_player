@@ -56,6 +56,5 @@ MIT License
 
 「構造化されたコードが、最高のエンターテインメントを生む。」
 
-file:///C:/Users/good5/OneDrive/Desktop/%E7%94%BB%E5%83%8F/Screenshots/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-04-30%20183817.png
-
+<img width="1244" height="1028" alt="スクリーンショット 2026-04-30 183817" src="https://github.com/user-attachments/assets/7d88125b-2ca8-45c9-9aaa-46a9fa595232" />
 
